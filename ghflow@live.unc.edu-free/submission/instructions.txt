@@ -1,0 +1,11 @@
+# Section 1: installation of the ROS package(GoHeelsRacing folder)
+1. Download and unzip the C++ Boost 1.72.0 library to ~/Downloads/boost_1_72_0 (or adjust the 'include_directories' in CMakeLists.txt).
+2. Place the GoHeelsRacing folder in ~/workspace/graic-workspace/src
+3. Open a new terminal, cd to ~/workspace/graic-workspace, then run catkin_make
+4. Once the ROS package is installed, you can run our solution following the same steps as running the baseline. Please use our customized agent_wrapper though.
+
+
+# Section 2: alternations made to agent_wrapper.py
+1. We have added support for CarlaEgoVehicleControl messages(line 117-120) in the run_model function. We use CarlaEgoVehicleControl messages to achieve more agile and timely deceleration.
+2. We have passed the role_name(line 134) parameter to our controller's constructor. We use this to read information about the vehicle from approporiate node of carla and determine the wheelbase 
+of the vehicle and its maximum turning angle. Our controller relies on these information to generate accurate control messages.

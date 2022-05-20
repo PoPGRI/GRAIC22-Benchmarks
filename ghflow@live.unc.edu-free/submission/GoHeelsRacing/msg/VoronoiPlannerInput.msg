@@ -1,0 +1,4 @@
+float32 allowed_obs_dist
+geometry_msgs/Vector3 car_location
+geometry_msgs/Vector3 milestone
+GoHeelsRacing/LineSegment[] obstacles
