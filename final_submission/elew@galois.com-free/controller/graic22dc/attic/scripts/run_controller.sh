@@ -1,0 +1,8 @@
+EXPORT="export PYTHONPATH+=':/home/carla/'"
+MKDIR="mkdir ~/graic22dc"
+COPY="cp -R ~/graic_user/* ~/graic22dc/"
+SETUP="source ~/workspace/graic-workspace/devel/setup.bash"
+RUN="python3 agent_wrapper.py ego_vehicle"
+CD="cd ~/graic22dc/"
+#docker exec -it graic_con /bin/bash -c "$EXPORT;$MKDIR;$COPY;$CD;$SETUP;$RUN"
+docker exec -it graic_con /bin/bash -c "$EXPORT;$CD;$SETUP;$RUN"

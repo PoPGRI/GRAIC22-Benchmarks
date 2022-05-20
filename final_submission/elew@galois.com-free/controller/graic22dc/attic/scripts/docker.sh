@@ -1,0 +1,1 @@
+docker run --name graic_con --privileged --rm --gpus all --env NVIDIA_DISABLE_REQUIRE=1 -it --net=host -e DISPLAY=$DISPLAY -v /tmp/.X11-unix:/tmp/.X11-unix:rw -v ~/work/graic22dc:/home/carla/graic22dc:rw sundw2014/graic /bin/bash
