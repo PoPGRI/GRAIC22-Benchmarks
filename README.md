@@ -1,6 +1,6 @@
 # GRAIC22-BENCHMARKS
 
-This respository contains controller submissions from the [GRAIC 2022 Competition](https://popgri.github.io/Race/).
+This respository contains controller submissions from the [GRAIC 2022 Competition](https://popgri.github.io/Race/). Each controller takes as input the sensor data for the ego vehicles and outputs decisions for the actuators, namely steering and throttle. 
 
 Final submissions for each team can be found in the [final_submission](/final_submission/) directory or by clicking on the team name below.
 
