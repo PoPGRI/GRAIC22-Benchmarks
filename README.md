@@ -9,7 +9,7 @@ Final submissions for each team can be found in the [final_submission](/final_su
 Previous submissions for teams (as they submitted for testing) can be found in the directories labeled by date of submission.
 The `log_*.txt` file in each of the directories include the results of the submissions for the day. They are formatted as follows:
 
-!(figs/H2H2.gif){height:100px}
+!(/figs/H2H2.gif){height:100px}
 
 ```bash
 Email
