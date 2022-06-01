@@ -10,8 +10,11 @@ Previous submissions for teams (as they submitted for testing) can be found in t
 The `log_*.txt` file in each of the directories include the results of the submissions for the day. They are formatted as follows:
 
 
-|<img src="figs/H2H1.gif" width="200"/><img src="figs/H2H2.gif" width="200"/><img src="figs/H2H3.gif" width="200"/>|
-|<img src="figs/H2H4.gif" width="200"/><img src="figs/H2H5.gif" width="200"/><img src="figs/H2H6.gif" width="200"/>|
+<img src="figs/H2H1.gif" width="200"/><img src="figs/H2H2.gif" width="200"/><img src="figs/H2H3.gif" width="200"/> 
+
+<img src="figs/H2H4.gif" width="200"/><img src="figs/H2H5.gif" width="200"/><img src="figs/H2H6.gif" width="200"/> 
+
+<img src="figs/H2H7.gif" width="200"/><img src="figs/H2H8.gif" width="200"/><img src="figs/H2H9.gif" width="200"/> 
 
 
 ```bash
