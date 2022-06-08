@@ -89,7 +89,11 @@ Raw Log Link
 |     final_t4    | 213.0 | [Link](https://drive.google.com/file/d/14pjOGk-QAbg23sbENNJgCc9H1eZR713y/view?usp=drivesdk) | [Link](https://drive.google.com/file/d/1Nts-zouq-deegx93-UshSa9dLebuGQTe/view?usp=drivesdk) | [Link](https://drive.google.com/file/d/163eeBkc-Mr9UCqJKHB4lnLW6wSh4lY3P/view?usp=drivesdk) |
 |   final_track5  | 247.0 | [Link](https://drive.google.com/file/d/1Lv2o15kNYzZ2mekkcvFGNSZ47kPFN9BM/view?usp=drivesdk) | [Link](https://drive.google.com/file/d/1_fnW8o_m-Cf5_IhvZdWow_cOlRuHoAVO/view?usp=drivesdk) | [Link](https://drive.google.com/file/d/1EKqr6N_D751QOufVd2jz_LLStYg0wdSy/view?usp=drivesdk) |
 
-### Citing GRAIC Benchmarks
+### Citing GRAIC-22 Benchmarks
+
+If you are using these benchmarks, pleace cite us with: 
+
+```{
 @misc{GRAIC22-Benchmarks,
       title     = {GRAIC Autonomous Racing Benchmark Controllers for 2022},
       author    = {Yixuan Jia and Raj Joshi  and Junyan Li and Yan Miao and Kristina Miller and Sayan Mitra and Dawei Sun},
@@ -97,4 +101,5 @@ Raw Log Link
       journal = {GitHub repository},
       url = {https://github.com/PoPGRI/GRAIC22-Benchmarks},
       year = {2022}
-    }  
+}  
+```
