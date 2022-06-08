@@ -107,4 +107,4 @@ If you are using these benchmarks, pleace cite us with:
 
 The [GRAIC project](https://popgri.github.io/Race/) and the related outreach activities are sponsored by:
 
-<img src="https://www.nsf.gov/images/logos/NSF_4-Color_bitmap_Logo.png" width="200"/><img src="figs/H2H2.gif" width="200"/>
+<img src="https://www.nsf.gov/images/logos/NSF_4-Color_bitmap_Logo.png" width="200"/><img src="https://media.defense.gov/2020/Mar/11/2002263032/1920/1080/0/200311-D-IM742-2002.PNG" width="200"/>
