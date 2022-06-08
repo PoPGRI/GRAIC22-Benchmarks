@@ -89,7 +89,7 @@ Raw Log Link
 |     final_t4    | 213.0 | [Link](https://drive.google.com/file/d/14pjOGk-QAbg23sbENNJgCc9H1eZR713y/view?usp=drivesdk) | [Link](https://drive.google.com/file/d/1Nts-zouq-deegx93-UshSa9dLebuGQTe/view?usp=drivesdk) | [Link](https://drive.google.com/file/d/163eeBkc-Mr9UCqJKHB4lnLW6wSh4lY3P/view?usp=drivesdk) |
 |   final_track5  | 247.0 | [Link](https://drive.google.com/file/d/1Lv2o15kNYzZ2mekkcvFGNSZ47kPFN9BM/view?usp=drivesdk) | [Link](https://drive.google.com/file/d/1_fnW8o_m-Cf5_IhvZdWow_cOlRuHoAVO/view?usp=drivesdk) | [Link](https://drive.google.com/file/d/1EKqr6N_D751QOufVd2jz_LLStYg0wdSy/view?usp=drivesdk) |
 
-### Citing GRAIC-22 Benchmarks
+## Citing GRAIC-22 Benchmarks
 
 If you are using these benchmarks, pleace cite us with: 
 
@@ -103,3 +103,8 @@ If you are using these benchmarks, pleace cite us with:
       year = {2022}
 }  
 ```
+## Sponsors 
+
+The [GRAIC project](https://popgri.github.io/Race/) and the related outreach activities are sponsored by:
+
+<img src="https://www.nsf.gov/images/logos/NSF_4-Color_bitmap_Logo.png" width="200"/><img src="figs/H2H2.gif" width="200"/>
