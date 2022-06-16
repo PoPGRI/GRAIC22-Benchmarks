@@ -45,7 +45,7 @@ Notes:
 
 ## Output (stored in /home/carla)
 - output_ego_vehicle.mp4
-    - Note that this docker image does not come with images, the mp4 is to provide users with visual feedback.
+    - Note that this docker image does not come with graphics, the mp4 is to provide users with visual feedback. Users can use `docker cp` command to transfer files to their host machines from dockers.
 - score_ego_vehicle.txt
     - Details about time to finish and collision
 - record.txt
