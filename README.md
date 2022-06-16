@@ -29,6 +29,8 @@ Video Link
 Raw Log Link
 ```
 
+To replicate the experiements, please follow this [Documentation](/run_experiments.md)
+
 ## Final Submission Data
 
 ### [GoHeelsRacing](/final_submission/GoHeelsRacing/)
