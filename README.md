@@ -15,7 +15,7 @@ The `log_*.txt` file in each of the directories include the results of the submi
 
 <img src="figs/H2H7.gif" width="200"/><img src="figs/H2H8.gif" width="200"/><img src="figs/H2H9.gif" width="200"/> 
 
-You can learn more about the 2022 GRAIC competition participating teams from [GRAIC 2022 Competition](https://popgri.github.io/Race/). This benchmark is compiled by [GRAIC team](https://popgri.github.io/Race/about/)
+You can learn more about the 2022 GRAIC competition participating teams from [here](https://popgri.github.io/Race/). This benchmark is compiled by [GRAIC team](https://popgri.github.io/Race/about/). For comments or suggestions email [graic2021@gmail.com](mailto:graic2021@gmail.com).
 
 ****  
 
