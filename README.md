@@ -5,6 +5,8 @@ This respository contains controller submissions and results from the [GRAIC 202
 
 Final submissions for each team can be found in the [final_submission](/final_submission/) directory or by clicking on the team name below. 
 
+To replicate the results, please follow the directions **[here](/run_experiments.md)**.
+
 Previous submissions for teams (as they submitted for testing) can be found in the directories labeled by date of submission.
 The `log_*.txt` file in each of the directories include the results of the submissions for the day. They are formatted as follows:
 
@@ -28,8 +30,6 @@ Score Log Link
 Video Link
 Raw Log Link
 ```
-
-To replicate the experiements, please follow this [Documentation](/run_experiments.md)
 
 ## Final Submission Data
 
