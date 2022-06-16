@@ -95,7 +95,8 @@ Raw Log Link
 
 ## Reproducing the race results
 
-**Note** that there are several sources of nondeterminism in the GRAIC/CARLA simulation framework. The results you obtain may differ from our logs.
+Follow the instructions on [this page](run_experiments.md) for reproducing the race results. 
+**Note** Because of the nondeterminism in the GRAIC/CARLA simulation framework, your results  may differ from the logs in this repository.
 
 ## Citing GRAIC-22 Benchmarks
 
