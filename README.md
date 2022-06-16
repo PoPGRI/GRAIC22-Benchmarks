@@ -1,10 +1,9 @@
 # GRAIC22-BENCHMARKS
 
-This respository contains controller submissions and results from the [GRAIC 2022 Competition](https://popgri.github.io/Race/). Each controller takes as input the sensor data for the ego vehicles and outputs decisions for the actuators, namely steering and throttle. This controller program has to be plugged-in to the vehicle and the simulation environment to run the whole autonomous system. The GRAIC competition evaluates (or races) each of the controllers on different vehicles and in different tracks. The tracks are populated with scenarios involving other vehicles and pedestrians. The score for a controller is determined based on speed of track completion and collision penalties. This repository provides the logs from each of these races. 
+This respository contains controller submissions and results from the [GRAIC 2022 Competition](https://popgri.github.io/Race/). Each controller takes as input the sensor data for the ego vehicles and outputs decisions for the actuators, namely steering and throttle. This controller program has to be plugged-in to the vehicle and the simulation environment to run the whole autonomous system. The GRAIC competition evaluates (or races) each of the controllers on different vehicles and in different tracks. The tracks are populated with scenarios involving other vehicles and pedestrians. The score for a controller is determined based on speed of track completion and collision penalties. This repository provides the controller code, and the results logs we computed from each of these races. Instructions for reproducing these results are given below. 
 
 
-
-Final submissions for each team can be found in the [final_submission](/final_submission/) directory or by clicking on the team name below.
+Final submissions for each team can be found in the [final_submission](/final_submission/) directory or by clicking on the team name below. 
 
 Previous submissions for teams (as they submitted for testing) can be found in the directories labeled by date of submission.
 The `log_*.txt` file in each of the directories include the results of the submissions for the day. They are formatted as follows:
@@ -16,6 +15,9 @@ The `log_*.txt` file in each of the directories include the results of the submi
 
 <img src="figs/H2H7.gif" width="200"/><img src="figs/H2H8.gif" width="200"/><img src="figs/H2H9.gif" width="200"/> 
 
+You can learn more about the 2022 GRAIC competition participating teams from [GRAIC 2022 Competition](https://popgri.github.io/Race/). This benchmark is compiled by [GRAIC team](https://popgri.github.io/Race/about/)
+
+****  
 
 ```bash
 Email
@@ -88,6 +90,10 @@ Raw Log Link
 |     final_t3    | 437.0 | [Link](https://drive.google.com/file/d/1AcGbmFl5HIwyuytBd30wx7NPlMb-Bh0X/view?usp=drivesdk) | [Link](https://drive.google.com/file/d/1VwvQ6A5SiZE5UB_VRSj55G4YtWrbV7oY/view?usp=drivesdk) | [Link](https://drive.google.com/file/d/1JfjMeCNki4NLxX2MUJJQe_PBprnyGYjo/view?usp=drivesdk) |
 |     final_t4    | 213.0 | [Link](https://drive.google.com/file/d/14pjOGk-QAbg23sbENNJgCc9H1eZR713y/view?usp=drivesdk) | [Link](https://drive.google.com/file/d/1Nts-zouq-deegx93-UshSa9dLebuGQTe/view?usp=drivesdk) | [Link](https://drive.google.com/file/d/163eeBkc-Mr9UCqJKHB4lnLW6wSh4lY3P/view?usp=drivesdk) |
 |   final_track5  | 247.0 | [Link](https://drive.google.com/file/d/1Lv2o15kNYzZ2mekkcvFGNSZ47kPFN9BM/view?usp=drivesdk) | [Link](https://drive.google.com/file/d/1_fnW8o_m-Cf5_IhvZdWow_cOlRuHoAVO/view?usp=drivesdk) | [Link](https://drive.google.com/file/d/1EKqr6N_D751QOufVd2jz_LLStYg0wdSy/view?usp=drivesdk) |
+
+## Reproducing the race results
+
+**Note** that there are several sources of nondeterminism in the GRAIC/CARLA simulation framework. The results you obtain may differ from our logs.
 
 ## Citing GRAIC-22 Benchmarks
 
