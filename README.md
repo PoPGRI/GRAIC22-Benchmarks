@@ -1,11 +1,8 @@
 # GRAIC22-BENCHMARKS
 
-This respository contains controller submissions and results from the [GRAIC 2022 Competition](https://popgri.github.io/Race/). Each controller takes as input the sensor data for the ego vehicles and outputs decisions for the actuators, namely steering and throttle. This controller program has to be plugged-in to the vehicle and a custom-made [CARLA](https://carla.org/) simulation environment to run the whole autonomous system. The GRAIC competition evaluates (or races) each of the controllers on different vehicles, different tracks, populated with different scenarios involving other vehicles and pedestrians. The score for a controller is determined based on speed of track completion and collision penalties. This repository provides the controller code, and the results logs we computed from each of these races. Instructions for reproducing these results are given below. 
+This respository contains controller submissions and results from the [GRAIC 2022 Competition](https://popgri.github.io/Race/). Each controller takes as input the sensor data for the ego vehicles and outputs decisions for the actuators, namely steering and throttle. This controller program has to be plugged-in to the vehicle and a custom-made [CARLA](https://carla.org/) simulation environment to run the whole autonomous system. The GRAIC competition evaluates (or races) each of the controllers on different vehicles, different tracks, populated with different scenarios involving other vehicles and pedestrians. The score for a controller is determined based on speed of track completion and collision penalties. This repository provides the controller code, and the results logs we computed from each of these races. Instructions for reproducing these results are given below. With 16 different hand-coded controllers and 5 tracks you can create 80 different race configurations; changing  vehicles and scenarios, you can create 100s of scenarios for testing and verification.
 
-
-Final submissions for each team can be found in the [final_submission](/final_submission/) directory or by clicking on the team name below. 
-
-To replicate the results, please follow the directions **[here](/run_experiments.md)**.
+Final submissions for each team can be found in the [final_submission](/final_submission/) directory or by clicking on the team name below. To replicate the results,  follow the directions **[here](/run_experiments.md)**.
 
 Previous submissions for teams (as they submitted for testing) can be found in the directories labeled by date of submission.
 The `log_*.txt` file in each of the directories include the results of the submissions for the day. They are formatted as follows:
